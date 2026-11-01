@@ -1,0 +1,17 @@
+{
+  "name": "Podwórkowi Bohaterowie",
+  "short_name": "Bohaterowie",
+  "description": "Gra platformowa w gigantycznym ogródku: walcz z robalami, zbieraj rosę i ulepszaj broń.",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#121d12",
+  "theme_color": "#121d12",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
